@@ -5,7 +5,7 @@ package fuseversion
 //
 // #include <fuse/fuse.h>
 // #include <fuse/fuse_common.h>
-// #include <fuse/fuse_darwin.h>
+// #include <fuse/fuse.h>
 import "C"
 import "fmt"
 
